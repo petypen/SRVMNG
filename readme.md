@@ -1,8 +1,8 @@
 # SRVMNG (Services managing)  
-## Скрипт для запуска и останова сервисов srv1cv83 и postgresql в WSL
+## Скрипт для запуска и остановки сервисов srv1cv83 и postgresql в WSL
 
 ## Задача  
-В сиcтеме Linux, которая работает в WSL автоматизировать запуск и останов серверов 1С:Предприятие 8 (srv1cv83) и PostgresQL (postgresql)
+В сиcтеме Linux, которая работает в WSL автоматизировать запуск и остановку серверов 1С:Предприятие 8 (srv1cv83) и PostgresQL (postgresql)
 
 ## Зависимости  
 Используется библиотека [1commands](https://github.com/oscript-library/1commands)
